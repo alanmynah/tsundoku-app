@@ -1,4 +1,5 @@
 import { useState } from "react";
+// @ts-ignore
 import Quagga from "quagga";
 
 const Home = () => {
